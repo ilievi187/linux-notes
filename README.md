@@ -1,11 +1,17 @@
-# Linux Notes 🐧
+# Linux Scripts 🐧⚙️
 
-Personal Linux system administration notes.
+Collection of system administration and monitoring scripts.
 
-## Topics
-- Basic commands
-- Networking
-- System troubleshooting
-- Performance checks
+## Purpose
+Quick diagnostics for Linux systems.
 
-This repo is used for learning Linux and building sysadmin skills.
+## Scripts
+- system_health.sh → system overview
+- disk_check.sh → disk usage
+- network_check.sh → connectivity checks
+- process_watch.sh → top CPU processes
+
+## Usage
+```bash
+chmod +x script.sh
+./script.sh
